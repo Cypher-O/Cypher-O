@@ -1,4 +1,4 @@
-### Hi there 👋, I am Olumide Awodeji! ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
+,### Hi there 👋, I am Olumide Awodeji! ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
 Mobile Developer ✨
 
@@ -17,3 +17,11 @@ Mobile Developer ✨
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cypher-O&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
 <hr>
+
+- Email: [Olumide Awodeji](mailto:awodejiolumidekolade@gmail.com)
+- LinkedIn: [Olumide Awodeji](https://www.linkedin.com/in/olumide-awodeji-4b20b51a4/)
+- Twitter: [@cyphercodes_](https://x.com/cyphercodes_)
+
+<hr>
+
+
