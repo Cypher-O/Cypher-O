@@ -1,59 +1,19 @@
-# Hi there, I'm Olumide Awodeji! 👋
+### Hi there 👋, I am Olumide Awodeji! ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Welcome to my GitHub profile!
+Mobile Developer ✨
 
-## 📊 GitHub Stats
+<hr>
 
-![Cypher-O's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cypher-O&show_icons=true&theme=radical)
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Cypher-O&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-O&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Cypher-O&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
 
-## 🏆 GitHub Trophies
+<hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cypher-O&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 Trophies
 
-## 🔥 Streak Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cypher-O&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cypher-O&theme=dark&background=000000)](https://git.io/streak-stats)
-
-## 🌟 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-O&layout=compact&theme=radical)
-
-## 📫 How to reach me
-
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-
-## 🌱 I’m currently learning
-
-- Flutter & Dart
-- Advanced Python
-- Machine Learning
-
-## 💬 Ask me about
-
-- Mobile Development
-- Software Engineering
-- Open Source
-
-## ⚡ Fun fact
-
-I love coding and coffee!
-
-## 📄 Portfolio
-
-Check out my [portfolio](https://yourportfolio.com) for more projects and information.
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-
-## 🔗 Links
-
-- [My Website](https://yourwebsite.com)
-- [My Blog](https://yourblog.com)
+<hr>
