@@ -22,7 +22,7 @@ Software Developer | Mobile Developer ✨
 
 - Email: [Olumide Awodeji](mailto:awodejiolumidekolade@gmail.com)
 - LinkedIn: [Olumide Awodeji](https://www.linkedin.com/in/olumide-awodeji-4b20b51a4/)
-- Twitter: [@cyphercodes_](https://x.com/cyphercodes_)
+- Twitter: [cyphercodes_](https://x.com/cyphercodes_)
 
 <hr>
 
