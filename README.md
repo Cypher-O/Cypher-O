@@ -1,6 +1,20 @@
 ### Hi there 👋, I am Olumide Awodeji! ![](https://pbs.twimg.com/profile_banners/860357608552763393/1593430830/1500x500)
 
-Software Developer | Mobile Developer ✨
+<!-- Software Developer | Mobile Developer ✨ -->
+
+<p align="center">
+    <a href="http://aashisjha.com.np" target="_blank">
+        <img src="https://github.com/Cypher-O/Cypher-O/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Cat smiling">
+    </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/Cypher-O/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20✨;ETHICAL%20HACKER%20✨;FULL-STACK%20WEB%20AND%20APP%20DEV%20✨;ARTIFICIAL%20INTELLIGENCE%20(AI)%20✨;PROGRAMMER%20✨;EXPERIENCED%20UI%2FUX%20DESIGNER%20✨;7%2B%20YEAR's%20OF%20CODING%20EXPERIENCE%20✨;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
 <hr>
 
